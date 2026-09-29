@@ -24,7 +24,6 @@ I am developing practical experience across data engineering, cloud computing, S
 
 * AWS
 * Microsoft Azure
-* Docker
 * Git
 * GitHub
 
@@ -69,12 +68,7 @@ An end-to-end data engineering project using NASA Earth observation data to demo
 
 ## Certifications & Professional Development
 
-* AWS re/Start — Completed
-* Cisco Data Analytics Essentials — Completed
-* Deloitte Data Analytics — Completed
-* AWS Cloud Practitioner — In Progress
-* Microsoft Azure — Continuous Learning
-* Data Engineering — Continuous Learning
+Stay tuned
 
 ---
 
@@ -87,7 +81,6 @@ An end-to-end data engineering project using NASA Earth observation data to demo
 * Data Modelling
 * Apache Airflow
 * dbt
-* Docker
 * AWS
 * Microsoft Azure
 
